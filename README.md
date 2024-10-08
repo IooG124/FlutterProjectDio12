@@ -1,3 +1,19 @@
+Nama : I Made Dio Kartiana Putra
+No : 12
+Kelas : XII RPL 3
+
+Perubahan yang dilakukan :
+1. Mengganti pengalaman bekerja pada lib\models\Expr.dart yang akan ditampikan pada  lib\screen\home\expr_card.dart
+
+2. Mengganti isi title dan description pada folder lib\models\Project.dart yang akan ditampilkan pada lib\screen\home\component\my_project.dart
+
+3. Mengubah informasi profil portofolio pada lib\screens\main\components\my_info.dart
+
+4. Mengubah persentase keahlian dalam 2 file yaitu knowledges.dart dan skill.dart dalam folder lib\main\components\
+
+
+
+
 # 🌟 Flutter Portfolio By Giridharan S🌟
 ### **[View My Website](https://giris-flutter.netlify.app/)**
 

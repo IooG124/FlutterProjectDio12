@@ -34,7 +34,7 @@ class MyProjects extends StatelessWidget {
         const SizedBox(height: defaultPadding),
         Center(
           child: Text(
-            "Copyright ©️ 2024  Giridharan S",
+            "Copyright ©️ 2024  Dio Kartiana",
             style: Theme.of(context).textTheme.titleMedium,
           ),
         ),

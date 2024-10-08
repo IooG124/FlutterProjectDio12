@@ -4,7 +4,7 @@ import 'package:flutter_profile/screens/main/main_screen.dart';
 
 import 'components/home_banner.dart';
 import 'components/my_projects.dart';
-import 'highlights.dart';
+// import 'highlights.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
     return MainScreen(
       children: [
         HomeBanner(),
-        HighLightsInfo(),
+        // HighLightsInfo(),
         Expr(),
         MyProjects()
       ],

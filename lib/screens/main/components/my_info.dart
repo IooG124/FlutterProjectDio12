@@ -19,16 +19,15 @@ class MyInfo extends StatelessWidget {
             ),
             CircleAvatar(
               radius: 50,
-              backgroundImage: AssetImage("assets/images/pro.jpg"),
+              backgroundImage: AssetImage("assets/images/Ioo.jpg"),
             ),
             Spacer(),
             Text(
-              "Giridharan S",
+              "Dio Kartiana",
               style: Theme.of(context).textTheme.titleSmall,
             ),
             Text(
-              """FullStack Developer👨‍💻
-    Tech Lover💕|Self-Learner✨""",
+              """Beginner Developer""",
               textAlign: TextAlign.center,
               style: TextStyle(fontWeight: FontWeight.w200, height: 1.5),
             ),

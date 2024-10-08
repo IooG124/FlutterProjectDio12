@@ -26,11 +26,11 @@ class Coding extends StatelessWidget {
           label: "HTML",
         ),
         AnimatedLinearProgressIndicator(
-          percentage: 0.70,
-          label: "ReactJs",
+          percentage: 0.80,
+          label: "PHP",
         ),
         AnimatedLinearProgressIndicator(
-          percentage: 0.85,
+          percentage: 0.60,
           label: "Python",
         ),
         AnimatedLinearProgressIndicator(
@@ -38,12 +38,8 @@ class Coding extends StatelessWidget {
           label: "CSS",
         ),
         AnimatedLinearProgressIndicator(
-          percentage: 0.78,
+          percentage: 0.70,
           label: "JavaScript",
-        ),
-        AnimatedLinearProgressIndicator(
-          percentage: 0.60,
-          label: "NodeJS",
         ),
       ],
     );

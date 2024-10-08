@@ -6,34 +6,17 @@ class Expr {
 
 final List<Expr> demoExperience = [
   Expr(
-    titel: "Web Development",
-    company: "Oasis Infobyte",
+    titel: "Face Recognition",
+    company: "PT. Bamboomedia Cipta Persada",
     durs:
-        "Jul 2024 - Aug 2024· 2 mos          Remote",
+        "Dec 2023 - Feb 2024",
   ),
   Expr(
-    titel: "Full-Stack Development",
-    company: "Cognifyz Technologies",
+    titel: "Web Maintener",
+    company: "PT. Indo Apps Solusindo",
     durs:
-        "Jun 2024 - Jul 2024 · 2 mos          Remote",
+        "Jun 2024 - Sep 2024",
   ),
-  Expr(
-    titel: "UI/UX Intern",
-    company: "Cognifyz Technologies",
-    durs:
-        "Apr 2024 - May 2024 · 2 mos          Remote",
-  ),
-  Expr(
-    titel: "Web Development Intern",
-    company: "Prodigy Infotech",
-    durs:
-        "Mar 2024 to Mar 2024 · 1 mos          Remote",
-  ),
-  Expr(
-    titel: "Web Development Intern",
-    company: "Codsoft",
-    durs:
-        "Jan 2024 to Feb 2024 · 2 mos          Remote",
-  ),
+  
   
 ];
